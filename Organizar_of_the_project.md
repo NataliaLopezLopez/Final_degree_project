@@ -64,7 +64,7 @@ Some `.npy` and `.edf` files are not uploaded here because they’re too big. Bu
 
 ## How to use the code
 
-1. Make sure you have Python 3 installed (I used MNE, NumPy, Matplotlib, SciPy...).
+1. Make sure to have Python 3 installed (I used MNE, NumPy, Matplotlib, SciPy...).
 2. Place all `.npy` and `.edf` files in the correct folders.
 3. Run the scripts depending on what you want to analyze (plots, topomaps, t-tests...).
 4. Some scripts use multiprocessing so they might take a while!
